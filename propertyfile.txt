@@ -1,0 +1,4 @@
+#File locations
+#Sun May 17 19:44:39 EDT 2015
+ExecutableDirectory=C\:/Users/Administrator/Documents/CS 140/FINAL PROJECT/TestPEXE/
+SourceDirectory=C\:/Users/Administrator/Documents/CS 140/FINAL PROJECT/TestPASM/
